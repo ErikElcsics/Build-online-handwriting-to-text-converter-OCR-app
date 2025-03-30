@@ -24,7 +24,7 @@ streamlit run online_handwriting_to_text_converter.py
 Usage:
 - Upload an image & extract text
 - Upload an image containing handwritten text.
-- Extracted text will be displayed in an editable text box.
+- Extracted text will be displayed in an editable text box. You can make any modification or add additional text, etc...
 - Download the text as a .txt file.
 
 Notes
