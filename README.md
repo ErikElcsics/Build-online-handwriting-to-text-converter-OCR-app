@@ -12,6 +12,7 @@ Installation:
 
 Clone the repository
 git clone https://github.com/ErikElcsics/Build-online-handwriting-to-text-converter-OCR-app.git
+
 cd handwriting-ocr-app
 
 Install dependencies
